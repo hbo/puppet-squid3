@@ -8,6 +8,7 @@
   "project_page": "https://github.com/thias/puppet-squid3",
   "issues_url": "https://github.com/thias/puppet-squid3/issues",
   "tags": [ "squid", "proxy" ],
+  "dependencies": [],
   "operatingsystem_support": [
     {
     "operatingsystem": "RedHat",
@@ -19,7 +20,7 @@
     },
     {
     "operatingsystem": "Debian",
-    "operatingsystemrelease": [ "6", "7", "8" ]
+      "operatingsystemrelease": [ "6", "7", "8", "9", "10" ]
     },
     {
     "operatingsystem": "Ubuntu",
